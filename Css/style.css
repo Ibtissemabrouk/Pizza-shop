@@ -1,0 +1,23 @@
+html {
+    font-size: 22px;
+    background-image:url("https://c8.alamy.com/comp/H8HPP0/little-italy-pizza-restaurant-seventh-avenue-new-york-city-united-H8HPP0.jpg");
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(245, 222, 179, 0.902);
+    
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
